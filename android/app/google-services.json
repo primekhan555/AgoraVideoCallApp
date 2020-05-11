@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "412775564213",
+    "firebase_url": "https://agoratest-b436a.firebaseio.com",
+    "project_id": "agoratest-b436a",
+    "storage_bucket": "agoratest-b436a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412775564213:android:dfcf5b525e849d1e0e8ffc",
+        "android_client_info": {
+          "package_name": "com.example.agoraflutterquickstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412775564213-lorueuggg4bjhu4mtda9qspq4isqikn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agoraflutterquickstart",
+            "certificate_hash": "8d886cbe7d148ae7bdb60b39f7be5b802c4ce49b"
+          }
+        },
+        {
+          "client_id": "412775564213-guj0p7rum937sh99b936r1hlhtadv7qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHzE1IIUF3NnP4rKjC76WeKg2v1fv-Ags"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412775564213-guj0p7rum937sh99b936r1hlhtadv7qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
